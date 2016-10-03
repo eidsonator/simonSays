@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Simon Says</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
     <link>http://eidsonator.github.io/simonSays/</link>
     <atom:link href="http://eidsonator.github.io/simonSays/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 20:41:33 -0400</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 20:41:33 -0400</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2016 21:46:10 -0400</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 21:46:10 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -74,12 +74,17 @@
     
       <item>
         <title>The pool is open</title>
-        <description>&lt;p&gt;Me: so tonight, we’re going to Kelsey’s graduation party at grandma and grandpa’s…
-Simon: no
-Me: and go swimming in their pool, and eat tacos, and cake…
-Simon: wait! How do you know the pool is going to be open.
-Me: because they told me it is.
-Simon: well, obviously they are lying to get me to come.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: so tonight, we’re going to Kelsey’s graduation party at grandma and grandpa’s…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: no&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: and go swimming in their pool, and eat tacos, and cake…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: wait! How do you know the pool is going to be open.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: because they told me it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: well, obviously they are lying to get me to come.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 12:48:28 -0400</pubDate>
         <link>http://eidsonator.github.io/simonSays/haha/2016/06/19/the-pool-is-open.html</link>
@@ -115,19 +120,32 @@ Simon: well, obviously they are lying to get me to come.&lt;/p&gt;
     
       <item>
         <title>Cupcakes...</title>
-        <description>&lt;p&gt;Yesterday at the graduation party, grandma asked Simon to go get her a cupcake. She wanted a very specific cupcake, and I knew it wasn’t going to work out how she was hoping, but I decided to watch and see how it played out…
-Grandma Tina: Simon, will you go get grandma a WHITE cupcake with WHITE frosting?
-Simon: THERE’S CUPCAKES!?
-Grandma: yes, can i have a WHITE cupcake with WHITE frosting?
-Simon: can i have one too?
-Grandma: yes. But bring me a WHITE cupcake with WHITE frosting.
-So Simon goes off to find the cupcakes, clear on the other side of the party, and brings back the cupcake pictured.
-Grandma: where is my cupcake?
-Simon: it’s here.
-Grandma: where is my frosting?
-Simon: I dropped it and it all fell off.
-Grandma (laughing uncontrollably): but I wanted a WHITE cupcake.
-Simon: What?! You know I can’t be trusted!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Yesterday at the graduation party, grandma asked Simon to go get her a cupcake.
+She wanted a very specific cupcake, and I knew it wasn’t going to work out how she was hoping, but I decided to watch and see how it played out…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma Tina&lt;/strong&gt;: Simon, will you go get grandma a WHITE cupcake with WHITE frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: &lt;strong&gt;THERE’S CUPCAKES!?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: yes, can i have a WHITE cupcake with WHITE frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: can i have one too?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: yes. But bring me a WHITE cupcake with WHITE frosting.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So Simon goes off to find the cupcakes, clear on the other side of the party, and brings back the cupcake pictured.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: where is my cupcake?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: it’s here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: where is my frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: I dropped it and it all fell off.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt; (laughing uncontrollably): but I wanted a WHITE cupcake.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: What?! You know I can’t be trusted!&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Jun 2016 12:48:28 -0400</pubDate>
         <link>http://eidsonator.github.io/simonSays/haha/2016/06/18/cupcakes.html</link>
@@ -140,8 +158,9 @@ Simon: What?! You know I can’t be trusted!&lt;/p&gt;
     
       <item>
         <title>You stink...</title>
-        <description>&lt;p&gt;Me: come here and give me a big hug. Ugh! You stink!
-Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: come here and give me a big hug. Ugh! You stink!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: well, that’s kind of my thing, apparently.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 12:48:28 -0400</pubDate>
         <link>http://eidsonator.github.io/simonSays/haha/2016/06/14/you-stink.html</link>
