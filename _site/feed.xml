@@ -1,54 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Simon Says</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://example.com/</link>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Oct 2016 14:30:01 -0400</pubDate>
-    <lastBuildDate>Sun, 02 Oct 2016 14:30:01 -0400</lastBuildDate>
+    <link>http://eidsonator.github.io/simonSays/</link>
+    <atom:link href="http://eidsonator.github.io/simonSays/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 02 Oct 2016 21:59:19 -0400</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2016 21:59:19 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
+        <title>Astronaut</title>
+        <description>&lt;p&gt;&lt;em&gt;Helping Simon draw a magazine cover for his homework assignment&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: I don’t even think I can draw an astronaut…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: It’s easy, just draw a man with a big cereal bowl on his head.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 12:48:28 -0400</pubDate>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/10/02/astronauts.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/10/02/astronauts.html</guid>
+        
+        
+        <category>haha</category>
+        
+      </item>
+    
+      <item>
         <title>Spiders...</title>
-        <description>&lt;p&gt;Simon:  There are more spiders in this house now there is one in the video game room!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  There are more spiders in this house now there is one in the video game room!&lt;/p&gt;
 
-&lt;p&gt;Me: …&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: …&lt;/p&gt;
 
-&lt;p&gt;Simon: Well, I’m not sure if it was a spider or a bug because I was too scare to stand there and count the legs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: Well, I’m not sure if it was a spider or a bug because I was too scared to stand there and count the legs.&lt;/p&gt;
 
-&lt;p&gt;Me: You mean an insect?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: You mean an insect?&lt;/p&gt;
 
-&lt;p&gt;Simon: Yes, an insect.  But there are some insects that can kill you too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: Yes, an insect.  But there are some insects that can kill you too.&lt;/p&gt;
 
-&lt;p&gt;Me:  You are not going to die from an insect bite in central Ohio.  Maybe in the jungles of South America you might.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  You are not going to die from an insect bite in central Ohio.  Maybe in the jungles of South America you might.&lt;/p&gt;
 
-&lt;p&gt;Simon:  How about the jungles of Brazil?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  How about the jungles of Brazil?&lt;/p&gt;
 
-&lt;p&gt;Me:  Brazil is in South America.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  Brazil is in South America.&lt;/p&gt;
 
-&lt;p&gt;Simon:  How come they call it South America if they don’t speak Amer… I mean if they don’t speak English there?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  How come they call it South America if they don’t speak Amer… I mean if they don’t speak English there?&lt;/p&gt;
 
-&lt;p&gt;Me:  Why do they call us America, because we do speak English?  Where did English come from?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  Why do they call us America, because we do speak English?  Where did English come from?&lt;/p&gt;
 
-&lt;p&gt;Simon: England.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: England.&lt;/p&gt;
 
-&lt;p&gt;Me:  So why don’t they just call us England Junior?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  So why don’t they just call us England Junior?&lt;/p&gt;
 
-&lt;p&gt;Simon:  Because that would be a stupid a name for a country.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  Because that would be a stupid a name for a country.&lt;/p&gt;
 
-&lt;p&gt;Me:  How about West England?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  How about West England?&lt;/p&gt;
 
-&lt;p&gt;Simon:  I think there is a West England already.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  I think there is a West England already.&lt;/p&gt;
 
-&lt;p&gt;Me:  Hmmmm…  Maybe West London.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;:  Hmmmm…  Maybe West London.&lt;/p&gt;
 
-&lt;p&gt;Simon:  So anyway, would you come get this spider out of the video game room?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;:  So anyway, would you come get this spider out of the video game room?&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Jun 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/06/20/spiders.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/06/20/spiders.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/06/20/spiders.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/06/20/spiders.html</guid>
         
         
         <category>haha</category>
@@ -57,16 +74,21 @@
     
       <item>
         <title>The pool is open</title>
-        <description>&lt;p&gt;Me: so tonight, we’re going to Kelsey’s graduation party at grandma and grandpa’s…
-Simon: no
-Me: and go swimming in their pool, and eat tacos, and cake…
-Simon: wait! How do you know the pool is going to be open.
-Me: because they told me it is.
-Simon: well, obviously they are lying to get me to come.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: so tonight, we’re going to Kelsey’s graduation party at grandma and grandpa’s…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: no&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: and go swimming in their pool, and eat tacos, and cake…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: wait! How do you know the pool is going to be open.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: because they told me it is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: well, obviously they are lying to get me to come.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/06/19/the-pool-is-open.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/06/19/the-pool-is-open.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/06/19/the-pool-is-open.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/06/19/the-pool-is-open.html</guid>
         
         
         <category>haha</category>
@@ -88,8 +110,8 @@ Simon: well, obviously they are lying to get me to come.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Simon:&lt;/strong&gt; well, good fathers always share things with their kids.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Jun 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/06/19/fathers-day-fudge.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/06/19/fathers-day-fudge.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/06/19/fathers-day-fudge.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/06/19/fathers-day-fudge.html</guid>
         
         
         <category>haha</category>
@@ -98,23 +120,36 @@ Simon: well, obviously they are lying to get me to come.&lt;/p&gt;
     
       <item>
         <title>Cupcakes...</title>
-        <description>&lt;p&gt;Yesterday at the graduation party, grandma asked Simon to go get her a cupcake. She wanted a very specific cupcake, and I knew it wasn’t going to work out how she was hoping, but I decided to watch and see how it played out…
-Grandma Tina: Simon, will you go get grandma a WHITE cupcake with WHITE frosting?
-Simon: THERE’S CUPCAKES!?
-Grandma: yes, can i have a WHITE cupcake with WHITE frosting?
-Simon: can i have one too?
-Grandma: yes. But bring me a WHITE cupcake with WHITE frosting.
-So Simon goes off to find the cupcakes, clear on the other side of the party, and brings back the cupcake pictured.
-Grandma: where is my cupcake?
-Simon: it’s here.
-Grandma: where is my frosting?
-Simon: I dropped it and it all fell off.
-Grandma (laughing uncontrollably): but I wanted a WHITE cupcake.
-Simon: What?! You know I can’t be trusted!&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Yesterday at the graduation party, grandma asked Simon to go get her a cupcake.
+She wanted a very specific cupcake, and I knew it wasn’t going to work out how she was hoping, but I decided to watch and see how it played out…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma Tina&lt;/strong&gt;: Simon, will you go get grandma a WHITE cupcake with WHITE frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: &lt;strong&gt;THERE’S CUPCAKES!?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: yes, can i have a WHITE cupcake with WHITE frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: can i have one too?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: yes. But bring me a WHITE cupcake with WHITE frosting.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;So Simon goes off to find the cupcakes, clear on the other side of the party, and brings back the cupcake pictured.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: where is my cupcake?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: it’s here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt;: where is my frosting?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: I dropped it and it all fell off.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grandma&lt;/strong&gt; (laughing uncontrollably): but I wanted a WHITE cupcake.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: What?! You know I can’t be trusted!&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Jun 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/06/18/cupcakes.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/06/18/cupcakes.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/06/18/cupcakes.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/06/18/cupcakes.html</guid>
         
         
         <category>haha</category>
@@ -123,12 +158,13 @@ Simon: What?! You know I can’t be trusted!&lt;/p&gt;
     
       <item>
         <title>You stink...</title>
-        <description>&lt;p&gt;Me: come here and give me a big hug. Ugh! You stink!
-Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
+        <description>&lt;p&gt;&lt;strong&gt;Me&lt;/strong&gt;: come here and give me a big hug. Ugh! You stink!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: well, that’s kind of my thing, apparently.&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/06/14/you-stink.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/06/14/you-stink.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/06/14/you-stink.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/06/14/you-stink.html</guid>
         
         
         <category>haha</category>
@@ -144,8 +180,8 @@ Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Simon&lt;/strong&gt;: experimenting on people’s body parts IS my hobby.&lt;/p&gt;
 </description>
         <pubDate>Sat, 07 May 2016 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2016/05/07/hobby.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/05/07/hobby.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/05/07/hobby.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/05/07/hobby.html</guid>
         
         
         <category>haha</category>
@@ -171,8 +207,8 @@ Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
 &lt;p&gt;Simon: What kind of stores do they sell gorillas at? And how big are gorillas?&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Mar 2016 11:48:28 -0500</pubDate>
-        <link>http://example.com/haha/2016/03/04/gorilla.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2016/03/04/gorilla.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2016/03/04/gorilla.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2016/03/04/gorilla.html</guid>
         
         
         <category>haha</category>
@@ -196,8 +232,8 @@ Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
 &lt;p&gt;Simon: yes.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 May 2015 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2015/05/23/grapes.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2015/05/23/grapes.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2015/05/23/grapes.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2015/05/23/grapes.html</guid>
         
         
         <category>haha</category>
@@ -215,27 +251,8 @@ Simon: well, that’s kind of my thing, apparently.&lt;/p&gt;
 &lt;p&gt;Simon: I just can’t picture you going hunting for ostriches.&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jun 2014 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2014/06/03/ostrich-hunting.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2014/06/03/ostrich-hunting.html</guid>
-        
-        
-        <category>haha</category>
-        
-      </item>
-    
-      <item>
-        <title>Zoo...</title>
-        <description>&lt;p&gt;While debating whether or not to renew the family pass to the Zoo…&lt;/p&gt;
-
-&lt;p&gt;Me: Hey, Simon, do you want to go to the zoo this summer?&lt;/p&gt;
-
-&lt;p&gt;Simon: Why? To see lousy animals?&lt;/p&gt;
-
-&lt;p&gt;I guess the debate is over!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Apr 2014 12:48:28 -0400</pubDate>
-        <link>http://example.com/haha/2014/04/29/zoo.html</link>
-        <guid isPermaLink="true">http://example.com/haha/2014/04/29/zoo.html</guid>
+        <link>http://eidsonator.github.io/simonSays/haha/2014/06/03/ostrich-hunting.html</link>
+        <guid isPermaLink="true">http://eidsonator.github.io/simonSays/haha/2014/06/03/ostrich-hunting.html</guid>
         
         
         <category>haha</category>
