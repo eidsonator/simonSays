@@ -15,6 +15,22 @@ Simon: Yes, because we are going to be around animals and animals are stinky.
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="/simonSays/css/main.css">
+    <script>window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+                t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function(f) {
+            t._e.push(f);
+        };
+
+        return t;
+    }(document, "script", "twitter-wjs"));</script>
 </head>
 <body class="container">
 <h1>Simon Says</h1>
@@ -35,10 +51,16 @@ Simon: Yes, because we are going to be around animals and animals are stinky.</p
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
-    <div class="fb-share-button"
-         data-href="http://eidsonator.github.io/simonSays//haha/2013/06/05/zoo.html"
-         data-layout="button_count">
+        <div class="pull-left"><div class="fb-share-button"
+             data-href="http://eidsonator.github.io/simonSays//haha/2013/06/05/zoo.html"
+             data-layout="button_count">
+        </div></div>
+    <div class="pull-left" style="margin-left: 15px; margin-top: 2px;">
+        <a class="twitter-share-button"
+           style="margin-top: 25px;"
+           href="https://twitter.com/intent/tweet">Tweet</a>
     </div>
+
 </div>
 <div class="PageNavigation">
     <div class="row">
