@@ -24,6 +24,9 @@ img.post {
   margin-left: auto;
   margin-right: auto; }
 
+@media (max-width: 575px) {
+  img.post {
+    max-width: calc(70%); } }
 #postImageHeader {
   margin-left: auto;
   margin-right: auto; }
