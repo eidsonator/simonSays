@@ -4,7 +4,7 @@
   padding-right: 0; }
 
 .subtitle {
-  margin-top: 0px; }
+  margin-top: -20px; }
 
 img.thumbnail {
   display: block;
@@ -26,7 +26,7 @@ img.post {
 
 @media (max-width: 575px) {
   img.post {
-    max-width: calc(70%); } }
+    max-width: calc(95%); } }
 #postImageHeader {
   margin-left: auto;
   margin-right: auto; }
