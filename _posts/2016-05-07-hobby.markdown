@@ -2,6 +2,7 @@
 layout: post
 title:  "Hobby..."
 date:   2016-05-07 12:48:28 -0400
+image: hobby.jpg
 categories: haha
 ---
 

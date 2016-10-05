@@ -2,6 +2,7 @@
 layout: post
 title:  "Cupcakes..."
 date:   2016-06-18 12:48:28 -0400
+image: cupcake.jpg
 categories: haha
 ---
 
