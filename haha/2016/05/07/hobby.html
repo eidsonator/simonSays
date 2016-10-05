@@ -122,14 +122,22 @@ Simon: experimenting on people’s body parts IS my hobby.
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script>
-    
-    // swiperight function
-    $.mobile.changePage("/simonSays/haha/2016/03/04/gorilla.html", "slide", true, true);
-    
-    
-    // swipeleft function
-    $.mobile.changePage("/simonSays/haha/2016/06/14/you-stink.html", "slide", false, true);
-    
+    $("document").ready(function(){
+        
+        // swiperight function
+        $("body").on('swiperight', function(e) {
+            console.log('swiperight');
+            window.location.replace("/simonSays/haha/2016/03/04/gorilla.html");
+        });
+        
+        
+        // swipeleft function
+        $("body").on('swipeleft', function(e) {
+            console.log("swipeleft");
+            window.location.replace("/simonSays/haha/2016/06/14/you-stink.html");
+        });
+        
+    });
 </script>
 </body>
 </html>

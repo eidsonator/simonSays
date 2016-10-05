@@ -128,11 +128,16 @@ Simon: Well… maybe we should try kick-boxing instead.
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script>
-    
-    
-    // swipeleft function
-    $.mobile.changePage("/simonSays/haha/2013/06/01/opinions.html", "slide", false, true);
-    
+    $("document").ready(function(){
+        
+        
+        // swipeleft function
+        $("body").on('swipeleft', function(e) {
+            console.log("swipeleft");
+            window.location.replace("/simonSays/haha/2013/06/01/opinions.html");
+        });
+        
+    });
 </script>
 </body>
 </html>

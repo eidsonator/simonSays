@@ -120,14 +120,22 @@ Simon: Well… that depends… do you want my opinion, or the teachers opinion?
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mobile/1.4.5/jquery.mobile.min.js"></script>-->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script>
-    
-    // swiperight function
-    $.mobile.changePage("/simonSays/haha/2013/05/08/karate.html", "slide", true, true);
-    
-    
-    // swipeleft function
-    $.mobile.changePage("/simonSays/haha/2013/06/04/han-solo.html", "slide", false, true);
-    
+    $("document").ready(function(){
+        
+        // swiperight function
+        $("body").on('swiperight', function(e) {
+            console.log('swiperight');
+            window.location.replace("/simonSays/haha/2013/05/08/karate.html");
+        });
+        
+        
+        // swipeleft function
+        $("body").on('swipeleft', function(e) {
+            console.log("swipeleft");
+            window.location.replace("/simonSays/haha/2013/06/04/han-solo.html");
+        });
+        
+    });
 </script>
 </body>
 </html>
