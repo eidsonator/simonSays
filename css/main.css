@@ -14,3 +14,16 @@ img.thumbnail {
   height: auto;
   padding: 0;
   margin: 0; }
+
+img.post {
+  display: block;
+  max-width: 585px;
+  max-height: 295px;
+  width: auto;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto; }
+
+#postImageHeader {
+  margin-left: auto;
+  margin-right: auto; }
