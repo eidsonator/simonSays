@@ -30,3 +30,7 @@ img.post {
 #postImageHeader {
   margin-left: auto;
   margin-right: auto; }
+
+.btn-paginator {
+  width: 92px;
+  background-color: #18bc9c; }
