@@ -15,6 +15,23 @@
 
 </head>
 <body class="container">
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({
+            appId      : '189930558110456',
+            xfbml      : true,
+            version    : 'v2.8'
+        });
+    };
+
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
 <div class="col-lg-3"></div>
 <div class="col-xs-12 col-lg-6">
     <h1>Simon Says</h1>
