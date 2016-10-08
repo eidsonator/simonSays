@@ -44,9 +44,19 @@ img.post {
   background-color: #18bc9c;
   border-color: #07ab8b; }
 
+.btn-post {
+  width: 100%;
+  background-color: #18bc9c;
+  border-color: #07ab8b;
+  margin-bottom: 15px; }
+
 .page-btns {
   margin-bottom: 15px; }
 
 .fb-page-div {
   margin-left: auto;
   margin-right: auto; }
+
+.social-media-buttons {
+  margin-bottom: 15px;
+  padding-bottom: 30px; }
