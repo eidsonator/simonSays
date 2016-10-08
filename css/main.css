@@ -33,7 +33,7 @@ img.post {
     max-height: 62px; }
 
   .btn-paginator {
-    font-size: .6em; } }
+    font-size: .75em; } }
 #postImageHeader {
   margin-left: auto;
   margin-right: auto; }
@@ -41,4 +41,12 @@ img.post {
 .btn-paginator {
   width: 92px;
   max-width: 100%;
-  background-color: #18bc9c; }
+  background-color: #18bc9c;
+  border-color: #07ab8b; }
+
+.page-btns {
+  margin-bottom: 15px; }
+
+.fb-page-div {
+  margin-left: auto;
+  margin-right: auto; }
