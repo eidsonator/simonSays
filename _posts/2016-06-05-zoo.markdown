@@ -3,6 +3,7 @@ layout: post
 title:  "Zoo..."
 date:   2013-06-05 12:48:28 -0400
 categories: haha
+image: zoo2.jpg
 ---
 
 Me: OK, Simon, lets go take a shower.

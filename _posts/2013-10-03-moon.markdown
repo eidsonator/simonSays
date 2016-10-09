@@ -3,6 +3,7 @@ layout: post
 title:  "The Moon"
 date:   2013-10-03 12:48:28 -0400
 categories: haha
+image: the_moon.jpg
 ---
 
 *On a cloudy nightime car ride home...*

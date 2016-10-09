@@ -3,6 +3,7 @@ layout: post
 title:  "Zoo..."
 date:   2014-04-29 12:48:28 -0400
 categories: haha
+image: zoo.jpg
 ---
 
 *I was trying to decide whether or not to renew the family pass to the Zoo...*

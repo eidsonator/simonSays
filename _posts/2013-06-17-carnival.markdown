@@ -3,6 +3,7 @@ layout: post
 title:  "Carnival..."
 date:   2013-06-17 12:48:28 -0400
 categories: haha
+image: carnival.jpg
 ---
 
 **me**: I'm going to sell you guys to the carnival!

@@ -3,6 +3,7 @@ layout: post
 title:  "Ostrich hunting..."
 date:   2014-06-03 12:48:28 -0400
 categories: haha
+image: ostrich_hunting.jpg
 ---
 
 *Cooking breakfast the other morning....*

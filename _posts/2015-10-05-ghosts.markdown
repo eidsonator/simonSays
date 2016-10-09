@@ -3,6 +3,7 @@ layout: post
 title:  "Ghosts"
 date:   2015-10-05 06:48:28 -0400
 categories: haha
+image: ghosts.jpg
 ---
 
 **Simon** (calling for me through the bathroom door): dad?

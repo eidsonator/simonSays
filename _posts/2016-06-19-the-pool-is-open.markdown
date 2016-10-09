@@ -3,6 +3,7 @@ layout: post
 title:  "The pool is open"
 date:   2016-06-19 12:48:28 -0400
 categories: haha
+image: the_pool_is_open.jpg
 ---
 
 **Me**: so tonight, we're going to Kelsey's graduation party at grandma and grandpa's...

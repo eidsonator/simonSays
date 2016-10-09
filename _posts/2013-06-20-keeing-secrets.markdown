@@ -3,6 +3,7 @@ layout: post
 title:  "Keeping secrets..."
 date:   2013-06-20 12:48:28 -0400
 categories: haha
+image: keeping_secrets.jpg
 ---
 
 me: Do you know who I love?

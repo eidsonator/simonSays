@@ -3,6 +3,7 @@ layout: post
 title:  "Kangol"
 date:   2016-10-01 12:48:28 -0400
 categories: haha
+image: kangol.jpg
 ---
 
 *Moving one of my Kangols off of his seat so he could sit down in the car...*

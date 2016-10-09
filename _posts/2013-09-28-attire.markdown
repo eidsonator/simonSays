@@ -3,6 +3,7 @@ layout: post
 title:  "Attire"
 date:   2013-09-28 12:48:28 -0400
 categories: haha
+image: attire.jpg
 ---
 
 **Simon**: That's just weird, to wear nothing but underwear in public...

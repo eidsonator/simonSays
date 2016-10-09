@@ -3,6 +3,7 @@ layout: post
 title:  "Opinions..."
 date:   2013-06-01 12:48:28 -0400
 categories: haha
+image: opinions.jpg
 ---
 
 **Grandma Tina**: Simon, how was your day at school today?

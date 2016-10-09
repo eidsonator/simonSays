@@ -3,6 +3,7 @@ layout: post
 title:  "Caverns..."
 date:   2013-06-15 12:48:28 -0400
 categories: haha
+image: caverns.jpg
 ---
 
 Me: Hey Simon, we're going to go walk through a cavern today... it might be a little bit spooky, but don't worry daddy'll be right there beside you the whole time.

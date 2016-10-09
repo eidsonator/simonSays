@@ -3,6 +3,7 @@ layout: post
 title:  "Gorilla..."
 date:   2016-03-04 12:48:28 -0400
 categories: haha
+image: gorilla.jpg
 ---
 
 Me: Come on, Simon, Let's go to the store and buy a grill.

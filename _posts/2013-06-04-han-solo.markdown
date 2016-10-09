@@ -3,6 +3,7 @@ layout: post
 title:  "Han Solo..."
 date:   2013-06-04 12:48:28 -0400
 categories: haha
+image: han_solo.jpg
 ---
 
 Simon: Let's play Star Wars, what character should I be?

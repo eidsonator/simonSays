@@ -3,6 +3,7 @@ layout: post
 title:  "Father's Day Fudge"
 date:   2016-06-19 12:48:28 -0400
 categories: haha
+image: fathers_day_fudge.jpg
 ---
 
 *Taking a piece of peanut butter fudge out of a Tupperware container in front of Simon...*

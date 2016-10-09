@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Karate..."
-date:   2013-05-08 12:48:28 -0400
+date:   2013-05-08 12:48:28 -0400+
+image: karate.jpg
 categories: haha
 ---
 

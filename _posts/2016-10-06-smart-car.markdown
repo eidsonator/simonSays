@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Smart Car"
+date:   2016-10-06 00:48:28 -0400
+image: smart_car.jpg
+categories: haha
+---
+
+**Me**: Woah, check that car out!
+
+**Simon**: What car?
+
+**Me**: *That* car!
+
+**Simon**: What about it?
+
+**Me**: It is pretty neat looking.
+
+**Simon**: Yeah, it looks like a smart car mixed with a gangster car. An old school gangster car, from the thirties.

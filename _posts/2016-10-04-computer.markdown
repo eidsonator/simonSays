@@ -3,6 +3,7 @@ layout: post
 title:  "Computer Science"
 date:   2016-10-04 00:48:28 -0400
 categories: haha
+image: computer_science.jpg
 ---
 
 *Getting Simon ready for his shower Sunday so we could go out for breakfast with my parents.  Marley was listening to some "music" in her room...*
