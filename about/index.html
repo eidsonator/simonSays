@@ -14,8 +14,9 @@
     <link rel="stylesheet" href="/simonSays/css/normalize.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/flatly/bootstrap.min.css">
     <link rel="stylesheet" href="/simonSays/css/main.css">
+    <script src="https://use.fontawesome.com/e34552b01b.js"></script>
 </head>
-<body class="container">
+<body>
 <script>
     window.fbAsyncInit = function() {
         FB.init({
@@ -33,67 +34,64 @@
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
-<div class="row">
-    <div class="col-lg-3"></div>
-    <div class="col-xs-12 col-lg-6">
-        <h1>Simon Says</h1>
-        <h3 class="subtitle"><small>A collection of Simonisms</small></h3>
-        <div class="bs-example">
-            <div id="myCarousel" class="carousel slide" data-ride="carousel">
-                <!-- Carousel indicators -->
-                <ol class="carousel-indicators">
-                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#myCarousel" data-slide-to="1"></li>
-                    <li data-target="#myCarousel" data-slide-to="2"></li>
-                </ol>
-                <!-- Wrapper for carousel items -->
-                <div class="carousel-inner">
-                    <div class="item active">
-                        <img src="/simonSays/img/carnival.jpg" alt="First Slide">
-                    </div>
-                    <div class="item">
-                        <img src="/simonSays/img/you_stink.jpg" alt="Second Slide">
-                    </div>
-                    <div class="item">
-                        <img src="/simonSays/img/age.jpg" alt="Third Slide">
-                    </div>
-                </div>
-                <!-- Carousel controls -->
-                <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-                    <span class="glyphicon glyphicon-chevron-left"></span>
-                </a>
-                <a class="carousel-control right" href="#myCarousel" data-slide="next">
-                    <span class="glyphicon glyphicon-chevron-right"></span>
-                </a>
-            </div>
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/simonSays/">Simon Says</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li><a href="/simonSays/about">About Me</a></li>
+
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="https://github.com/eidsonator" target="_blank" style="padding-bottom: 0; margin-bottom: 0;"><i class="fa fa-github-square fa-2x"></i></a></li>
+                <li><a href="http://lnkd.in/Q6ic46" target="_blank" style="padding-bottom: 0; margin-bottom: 0;"><i class="fa fa-linkedin-square fa-2x"></i></a></li>
+                <li><a href="https://www.facebook.com/toddEidson" target="_blank" style="padding-bottom: 0; margin-bottom: 0;"><i class="fa fa-facebook-square fa-2x"></i></a></li>
+            </ul>
+        </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+</nav>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-3"></div>
+        <div class="col-xs-12 col-lg-6">
+            <h1>Simon Says</h1>
+            <h3 class="subtitle"><small>A collection of Simonisms</small></h3>
+    
+        </div>
+    </div>
+    <div class="home">
+    <div class="row">
+        <div class="col-sm-3"></div>
+        <div class="col-xs-12 col-sm-6">
+            <p>Who am I???</p>
+
+<p>i enjoy long, moonlit walks on the beach… oops, wrong site.</p>
+
+<p>I am a father, web developer, and in my free time (what is this ‘free time’ I speak of, you say?) a music aficionado.</p>
+
+<p>I have two (usually) wonderful kids, Marley and Simon, who keep me out of trouble. Marley is a smart and sassy teenage girl, with all of the joys that those years can bring. Simon is a unique young man and our conversations have become semi-Facebook famous; all of my friends keep suggesting that I write a book featuring our exchanges, but I think a blog might be a better place for them. Coming soon is a ‘Simon Says’ section.</p>
+
+<p>I have been employed for the last three years at a manfacturing company writing mostly in-house, web-based CRUD interfaces to interact with dozens of databases. For the most part, I am writing web 2.0 applications in PHP/CoffeeScript/HTML/CSS, using Symfony2, Angular, jQuery and Semantic-ui, although I do have a lot of older projects written using Backbone and Bootstrap. I have one small project using Python, a lot of small utility scripts written in Ruby, as well as a year and a half experience supporting legacy C++ code. I am constantly learning new frameworks (currently Laravel, lets see how good I am at keeping this updated) and trying to improve my code on my personal time. The scariest thing for me is looking at code I wrote six months ago!</p>
+
+<p>I am a music junkie who enjoys accumulating vinyl records, collecting vintage (pre-1980) stereo equiptment, and enjoying live music performances (although, not as many now as I once did). My record collection consists of approximately 80% jazz music, but my taste in music is wildly eclectic. You might catch me listening to bluegrass, 80’s hip-hop, classical, and jazz standards back-to-back on any given day. I did spend a short time in my life as a studio and live sound engineer, but that lifestyle didn’t fit the best with the aspirations of a family man.</p>
+
+<p>If you would like to get in contact with me, feel free to drop me a line at <a href="mailto:todd@eidson.info">todd@eidson.info</a>.</p>
+
         </div>
     </div>
 </div>
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
-  </header>
-
-  <div class="post-content">
-    <p>This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at <a href="http://jekyllrb.com/">jekyllrb.com</a></p>
-
-<p>You can find the source code for the Jekyll new theme at:
-<a href="https://github.com/jekyll"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"></path></svg>
-</span><span class="username">jekyll</span></a>
- /
-<a href="https://github.com/jekyll/minima">minima</a></p>
-
-<p>You can find the source code for Jekyll at
-<a href="https://github.com/jekyll"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"></path></svg>
-</span><span class="username">jekyll</span></a>
- /
-<a href="https://github.com/jekyll/jekyll">jekyll</a></p>
-
-  </div>
-
-</article>
-
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 </body>
