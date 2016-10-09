@@ -23,7 +23,11 @@ baseurl: "/simonSays" # the subpath of your site, e.g. /blog
 url: "http://eidsonator.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  eidsonator
-paginate: 10
+
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 # Build settings
 markdown: kramdown
