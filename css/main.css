@@ -49,7 +49,7 @@ img.thumbnail {
 
 img.post {
   display: block;
-  max-width: 585px;
+  max-width: 95%;
   max-height: 295px;
   width: auto;
   height: auto;
