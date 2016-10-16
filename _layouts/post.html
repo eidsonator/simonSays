@@ -57,15 +57,15 @@
     </script>
     {% include menu.html %}
     <div class="row">
-        <div class="col-lg-3"></div>
-        <div class="col-xs-12 col-lg-6">
+        <div class="col-md-3"></div>
+        <div class="col-xs-12 col-md-6">
             <h1>Simon Says</h1>
             <h3 class="subtitle"><small>A collection of Simonisms</small></h3>
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-3"></div>
-            <div class="col-xs-12 col-lg-6">
+        <div class="col-md-3"></div>
+            <div class="col-xs-12 col-md-6">
                 <div id="postImageHeader">
                     {% if page.image %}
                     <img class="post" src="{{ page.image | prepend: '/img/' | prepend: site.baseurl }}">
@@ -75,8 +75,8 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-3"></div>
-        <div class="col-xs-12 col-lg-6">
+        <div class="col-md-3"></div>
+        <div class="col-xs-12 col-md-6">
             {{ page.date | date: "%b %-d, %Y" }}
             <div class="well">
                 <h2>{{ page.title }}</h2>
@@ -105,16 +105,16 @@
 
     <div class="PageNavigation">
         <div class="row">
-            <div class="col-lg-3"></div>
-            <div class="col-xs-12 col-lg-2">
+            <div class="col-md-3"></div>
+            <div class="col-xs-12 col-md-2">
                 {% if page.previous.url %}
                 <a class="btn btn-default btn-post" href="{{page.previous.url | prepend: site.baseurl }}"><i class="fa fa-arrow-left"></i> {{page.previous.title}}</a>
                 {% endif %}
             </div>
-            <div class="col-xs-12 col-lg-2 text-center">
+            <div class="col-xs-12 col-md-2 text-center">
                 <a class="btn btn-default btn-post" href="{{ site.baseurl }}/"><i class="fa fa-home"></i> HOME</a>
             </div>
-            <div class="col-xs-12 col-lg-2 text-right">
+            <div class="col-xs-12 col-md-2 text-right">
                 {% if page.next.url %}
                 <a class="btn btn-default btn-post" href="{{page.next.url | prepend: site.baseurl }}">{{page.next.title}} <i class="fa fa-arrow-right"></i></a>
                 {% endif %}
@@ -123,8 +123,8 @@
 
     </div>
     <div class="row">
-        <div class="col-lg-3"></div>
-        <div class="col-xs-12 col-lg-6">
+        <div class="col-md-3"></div>
+        <div class="col-xs-12 col-md-6">
             <div class="fb-page-div text-center">
                 <div class="fb-page"
                      data-href="https://www.facebook.com/Simonismsss/"
@@ -136,8 +136,8 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-lg-3"></div>
-        <div class="col-xs-12 col-lg-6">
+        <div class="col-md-3"></div>
+        <div class="col-xs-12 col-md-6">
             <div class="fb-comments" data-href="http://eidsonator.github.io/simonSays/{{ page.url }}" data-numposts="5"></div>
         </div>
     </div>
