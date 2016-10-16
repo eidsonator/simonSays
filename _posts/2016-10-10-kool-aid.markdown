@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Kool Aid"
+date:   2016-10-10 00:48:28 -0400
+image: kool_aid.jpg
+categories: haha
+---
+
+**Grandpa**: Who spiilled Kool-Aid in front of Grandma's fridge?
+
+**Lauren**:  It wasn't me.
+
+**Marley**: Not me.
+
+**Sophie**: I didn't.
+
+**Simon**: Well... I have done that before, in the past; however, I don't recall doing it recently, so I don't believe it was me.
