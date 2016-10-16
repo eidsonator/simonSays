@@ -1,9 +1,26 @@
+time = Time.new
+today = time.strftime("%Y-%m-%d")
+
 puts 'Enter Post Title'
 title = gets.chomp
-puts 'Enter Date'
+puts "Enter Date (default \"#{today}\")"
 post_date = gets.chomp
-puts 'Enter image file'
+puts 'Enter image path (default "~/Pictures")'
+path = gets.chomp
+puts 'Enter image file (no extension)'
 image_file = gets.chomp
+puts 'Enter image type (default "jpg")'
+image_type = gets.chomp
+
+if post_date === ""
+  post_date = today
+end
+if path === ""
+  path = "~/Pictures"
+end
+if image_type === ""
+  image_type = "jpg"
+end
 
 res = title.downcase.gsub(/\s+/) { |m| '-' }
 
@@ -21,7 +38,7 @@ HEREDOC
 
 File.open(file_name, 'w') { |file| file.write(content) }
 
-system("cp ~/Pictures/#{image_file}.jpg ./img/#{image_file}.jpg")
-system("cp ~/Pictures/#{image_file}.jpg ./img/thumbs/#{image_file}.jpg")
-system("mogrify -auto-orient -resize 1200 ./img/#{image_file}.jpg")
-system("mogrify -auto-orient -resize 220 ./img/thumbs/#{image_file}.jpg")
+system("cp #{path}/#{image_file}.#{image_type} ./img/#{image_file}.#{image_type}")
+system("cp #{path}/#{image_file}.#{image_type} ./img/thumbs/#{image_file}.#{image_type}")
+system("mogrify -auto-orient -resize 1200 ./img/#{image_file}.#{image_type}")
+system("mogrify -auto-orient -resize 220 ./img/thumbs/#{image_file}.#{image_type}")
