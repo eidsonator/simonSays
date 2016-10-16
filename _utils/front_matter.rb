@@ -43,9 +43,20 @@ categories: haha
 ---
 HEREDOC
 
+puts "Is this correct? (Y/n)"
+puts content
+correct = gets.chomp
+
+if correct.casecmp("n") === 0 or correct.casecmp("no") === 0
+  puts "Canceled"
+  exit
+end
+
 File.open(file_name, 'w') { |file| file.write(content) }
 
 system("cp #{path}/#{image_file}.#{image_type} ./img/#{image_file}.#{image_type}")
 system("cp #{path}/#{image_file}.#{image_type} ./img/thumbs/#{image_file}.#{image_type}")
 system("mogrify -auto-orient -resize 1200 ./img/#{image_file}.#{image_type}")
 system("mogrify -auto-orient -resize 220 ./img/thumbs/#{image_file}.#{image_type}")
+
+puts "Completed!"
