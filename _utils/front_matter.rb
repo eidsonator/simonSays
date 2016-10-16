@@ -1,14 +1,21 @@
 time = Time.new
 today = time.strftime("%Y-%m-%d")
 
-puts 'Enter Post Title'
-title = gets.chomp
+title = ""
+while title === ""
+  puts 'Enter Post Title'
+  title = gets.chomp
+end
 puts "Enter Date (default \"#{today}\")"
 post_date = gets.chomp
 puts 'Enter image path (default "~/Pictures")'
 path = gets.chomp
-puts 'Enter image file (no extension)'
-image_file = gets.chomp
+
+image_file = ""
+while image_file === ""
+  puts 'Enter image file (no extension)'
+  image_file = gets.chomp
+end
 puts 'Enter image type (default "jpg")'
 image_type = gets.chomp
 
@@ -30,7 +37,7 @@ content = <<~HEREDOC
 ---
 layout: post
 title:  "#{title}"
-date:   #{post_date} 00:48:28 -0400
+date:   #{post_date} 00:00:00 -0400
 image: #{image_file}.jpg
 categories: haha
 ---
