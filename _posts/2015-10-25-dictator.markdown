@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Dictator"
+date:   2015-10-25 00:00:00 -0400
+image: dictator.jpg
+categories: haha
+---
+
+**Me**: Get your glasses back on your face.
+
+**Simon**: No, you're acting like a dictator.
+
+**Me**: I'm not acting like a dictator. I am a dictator. Get your glasses back on your face.
+
+**Simon**: (*puts glasses back on*)
