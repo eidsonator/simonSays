@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Heavy"
+date:   2015-10-26 00:00:00 -0400
+image: heavy.jpg
+categories: haha
+---
+
+"You know that thing in your bathroom that has the numbers on it that tells you how much you weigh? I stepped on it, and it told me I was heavy." **- Simon**
