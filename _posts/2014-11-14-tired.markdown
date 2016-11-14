@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Tired"
+date:   2014-11-14 00:00:00 -0400
+image: tired.jpg
+categories: haha
+---
+
+**Simon**: my head hurts a little bit. Does that mean I'm tired?
+ 
+**Me**: yeah, probably.
+
+**Simon**: my brain molecules are confused right now.
