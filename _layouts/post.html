@@ -141,10 +141,18 @@
             <div class="fb-comments" data-href="http://eidsonator.github.io/simonSays/{{ page.url }}" data-numposts="5"></div>
         </div>
     </div>
+    <div class="hidden" id="checkForBootstrap"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script>
         $("document").ready(function(){
+            if ($('#checkForBootstrap').is(':visible') === true) {
+                $('<link rel="stylesheet" href="{{ site.baseurl }}/css/flatly/bootstrap.min.css">').appendTo('head');
+                var script = document.createElement( 'script' );
+                script.src = "{{ site.baseurl }}/js/bootstrap.min.js";
+                $('body').append( script );
+            }
+
             {% if page.previous.url %}
             // swiperight function
             $("body").on('swiperight', function(e) {
