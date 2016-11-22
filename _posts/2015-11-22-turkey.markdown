@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Turkey"
+date:   2015-11-22 00:00:00 -0400
+image: turkey.jpg
+categories: haha
+---
+
+_Thanksgiving at my mom and dad's. Helping simon with his plate._
+
+**Simon** (points at turkey): What's that?
+
+**Me**: Turkey.
+
+**Simon**: Well then yes. Definitely. Because turkey is one of the best meat products in the whole world.

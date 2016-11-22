@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Buff"
+date:   2014-11-22 00:00:00 -0400
+image: buff.jpg
+categories: haha
+---
+
+_Watching me walk on the treadmill..._
+
+**Simon**: It looks like you're getting skinnier... and stronger, too.
+
+**Me**: Oh really?
+
+**Simon**: Yeah, you're buff.
