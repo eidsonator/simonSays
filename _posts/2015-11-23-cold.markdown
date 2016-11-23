@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Cold"
+date:   2015-11-23 00:00:00 -0400
+image: cold.jpg
+categories: haha
+---
+
+**Simon**: I think I should not go to school today since I seem to have a pretty advanced case of a cold.
+
+**Me**: ha-ha!
+
+**Simon**: what? It's pretty advanced.
