@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dog Years"
+date:   2015-11-27 00:00:00 -0400
+image: dog_years.jpg
+categories: haha
+---
+
+**Me**: how old would I be in dog years?
+
+**Simon**: how old you would be in dog years would be dead years old. How ever many years that would be. Since dogs don't live that long.
